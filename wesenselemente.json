@@ -1,6 +1,10 @@
 {
   "1. Identität der Organisation": {
     "Kernziel": "Sinn und Selbstverständnis klären",
+    "Skala": [
+      0,
+      1
+    ],
     "Unterkapitel": [
       {
         "Titel": "Leitbild",
@@ -22,6 +26,10 @@
   },
   "2. Organisationspolitik und Strategie": {
     "Kernziel": "Zukunftsorientierung und Zielsetzung sichern",
+    "Skala": [
+      0,
+      1
+    ],
     "Unterkapitel": [
       {
         "Titel": "Ziele",
@@ -43,6 +51,10 @@
   },
   "3. Struktur": {
     "Kernziel": "Aufbauorganisation gestalten",
+    "Skala": [
+      0,
+      1
+    ],
     "Unterkapitel": [
       {
         "Titel": "Organigramm",
@@ -64,6 +76,10 @@
   },
   "4. Menschen, Führung, Zusammenarbeit": {
     "Kernziel": "Zusammenarbeit und Führung fördern",
+    "Skala": [
+      0,
+      1
+    ],
     "Unterkapitel": [
       {
         "Titel": "Kommunikation",
@@ -85,6 +101,10 @@
   },
   "5. Funktionen und Organe": {
     "Kernziel": "Handlungsfähigkeit absichern",
+    "Skala": [
+      0,
+      1
+    ],
     "Unterkapitel": [
       {
         "Titel": "Entscheidungsprozesse",
@@ -106,6 +126,10 @@
   },
   "6. Arbeitsabläufe": {
     "Kernziel": "Abläufe effektiv gestalten",
+    "Skala": [
+      0,
+      1
+    ],
     "Unterkapitel": [
       {
         "Titel": "Prozesse",
@@ -127,6 +151,10 @@
   },
   "7. Materielle Mittel": {
     "Kernziel": "Ressourcen effektiv einsetzen",
+    "Skala": [
+      0,
+      1
+    ],
     "Unterkapitel": [
       {
         "Titel": "Ausstattung",
