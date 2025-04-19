@@ -1,0 +1,149 @@
+{
+  "1. Identität der Organisation": {
+    "Kernziel": "Sinn und Selbstverständnis klären",
+    "Unterkapitel": [
+      {
+        "Titel": "Leitbild",
+        "Beschreibung": "Das Leitbild ist allen Mitarbeitenden bekannt und wird gelebt."
+      },
+      {
+        "Titel": "Selbstverständnis",
+        "Beschreibung": "Die Organisation kennt ihr Selbstverständnis."
+      },
+      {
+        "Titel": "Historie",
+        "Beschreibung": "Die Geschichte der Organisation wird reflektiert."
+      },
+      {
+        "Titel": "Werte",
+        "Beschreibung": "Werte sind definiert und handlungsleitend."
+      }
+    ]
+  },
+  "2. Organisationspolitik und Strategie": {
+    "Kernziel": "Zukunftsorientierung und Zielsetzung sichern",
+    "Unterkapitel": [
+      {
+        "Titel": "Ziele",
+        "Beschreibung": "Es gibt klare, überprüfbare Ziele."
+      },
+      {
+        "Titel": "Strategien",
+        "Beschreibung": "Strategien zur Zielerreichung sind entwickelt."
+      },
+      {
+        "Titel": "Planung",
+        "Beschreibung": "Strategische Planung erfolgt regelmäßig."
+      },
+      {
+        "Titel": "Evaluation",
+        "Beschreibung": "Erfolge und Misserfolge werden analysiert."
+      }
+    ]
+  },
+  "3. Struktur": {
+    "Kernziel": "Aufbauorganisation gestalten",
+    "Unterkapitel": [
+      {
+        "Titel": "Organigramm",
+        "Beschreibung": "Strukturen sind dokumentiert und bekannt."
+      },
+      {
+        "Titel": "Verantwortlichkeiten",
+        "Beschreibung": "Verantwortlichkeiten sind klar geregelt."
+      },
+      {
+        "Titel": "Hierarchien",
+        "Beschreibung": "Hierarchien sind transparent und sinnvoll."
+      },
+      {
+        "Titel": "Entscheidungswege",
+        "Beschreibung": "Entscheidungswege sind nachvollziehbar."
+      }
+    ]
+  },
+  "4. Menschen, Führung, Zusammenarbeit": {
+    "Kernziel": "Zusammenarbeit und Führung fördern",
+    "Unterkapitel": [
+      {
+        "Titel": "Kommunikation",
+        "Beschreibung": "Kommunikation ist offen und vertrauensvoll."
+      },
+      {
+        "Titel": "Führungsstil",
+        "Beschreibung": "Führung wird reflektiert und angepasst."
+      },
+      {
+        "Titel": "Wertschätzung",
+        "Beschreibung": "Wertschätzender Umgang ist gelebte Praxis."
+      },
+      {
+        "Titel": "Verantwortung",
+        "Beschreibung": "Führungskräfte übernehmen Verantwortung."
+      }
+    ]
+  },
+  "5. Funktionen und Organe": {
+    "Kernziel": "Handlungsfähigkeit absichern",
+    "Unterkapitel": [
+      {
+        "Titel": "Entscheidungsprozesse",
+        "Beschreibung": "Entscheidungen werden transparent getroffen."
+      },
+      {
+        "Titel": "Gremienarbeit",
+        "Beschreibung": "Gremien arbeiten effektiv."
+      },
+      {
+        "Titel": "Rollenverständnis",
+        "Beschreibung": "Rollen sind geklärt und abgestimmt."
+      },
+      {
+        "Titel": "Organisationskultur",
+        "Beschreibung": "Kultur wird gepflegt und weiterentwickelt."
+      }
+    ]
+  },
+  "6. Arbeitsabläufe": {
+    "Kernziel": "Abläufe effektiv gestalten",
+    "Unterkapitel": [
+      {
+        "Titel": "Prozesse",
+        "Beschreibung": "Prozesse sind dokumentiert und überprüft."
+      },
+      {
+        "Titel": "Koordination",
+        "Beschreibung": "Abläufe sind gut abgestimmt."
+      },
+      {
+        "Titel": "Optimierung",
+        "Beschreibung": "Prozesse werden regelmäßig verbessert."
+      },
+      {
+        "Titel": "Flexibilität",
+        "Beschreibung": "Mitarbeitende können flexibel handeln."
+      }
+    ]
+  },
+  "7. Materielle Mittel": {
+    "Kernziel": "Ressourcen effektiv einsetzen",
+    "Unterkapitel": [
+      {
+        "Titel": "Ausstattung",
+        "Beschreibung": "Materielle Mittel sind bedarfsgerecht vorhanden."
+      },
+      {
+        "Titel": "Finanzen",
+        "Beschreibung": "Finanzielle Mittel werden zielgerichtet eingesetzt."
+      },
+      {
+        "Titel": "Infrastruktur",
+        "Beschreibung": "Infrastruktur unterstützt die Arbeitsprozesse."
+      },
+      {
+        "Titel": "IT-Systeme",
+        "Beschreibung": "Digitale Systeme sind funktional und verfügbar."
+      }
+    ]
+  }
+}
